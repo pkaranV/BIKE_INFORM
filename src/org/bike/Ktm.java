@@ -7,6 +7,7 @@ public class Ktm implements Bike {
 		System.out.println("ktm bike cost more than a lakh");
 		System.out.println("ktm bike cost more than a lakh");
 		System.out.println("ktm bike cost more than a lakh");
+		System.out.println("duke  bike cost more than a lakh");
 		
 	}
 
