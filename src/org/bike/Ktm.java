@@ -15,6 +15,8 @@ public class Ktm implements Bike {
 		System.out.println("speed is you can't imagine");
 		System.out.println("speed is you can't imagine");
 		System.out.println("speed is you can't imagine");
+		System.out.println("not enough");
+		System.out.println("need god speed");
 		
 	}
 	
